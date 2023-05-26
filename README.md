@@ -12,7 +12,5 @@ I embarked on a self-guided journey through the fascinating world of Network Sci
 
 **Dynamics of Networks:** This section delves deeper into the exploration of the behavior of random walkers on various networks. By implementing a custom-built random walker function, we examine various facets of a graph, particularly focusing on the identification of subgroups. This section also studies the dynamics of node statuses, such as rumors, and showcases the influence of network topology on rumor propagation.
 
-***Interactive Model***
-To make the learning experience more engaging, an interactive and dynamic simulation model using Python will be incorporated. This model will be based on the PyCX's "pycxsimulator.py" file, which can be found at https://sourceforge.net/projects/pycx/files/. This model will enable real-time visualization and manipulation of network dynamics.
 
 By systematically exploring the above aspects, this repository aims to provide a comprehensive understanding of Network Science and its practical applications.
