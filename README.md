@@ -14,5 +14,6 @@ I embarked on a self-guided journey through the fascinating world of Network Sci
 
 **Dynamics of Networks:** Network dynamics models capture network changes over time, such as the addition and removal of nodes and edges. This section has three parts dealing with the dynamics like small world network and preferential attachment network.
 
+**Analysis of Networks:** There area several ways to analyze the structural features of Network in terms of its size, density, topology, and statistical properties. This section deails with the concept like: size & density, shortest path length (eccentricity), centralities & coreness, clustering, degree distribution, and assortivity. 
 
 By systematically exploring the above aspects, this repository aims to provide a comprehensive understanding of Network Science and its practical applications.
